@@ -1,2 +1,2 @@
 # Teste_Cypress
-Projeto automação de testes front, api com BDD.
+Projeto automação de testes Front e API com BDD.
